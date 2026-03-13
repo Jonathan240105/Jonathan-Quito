@@ -1,5 +1,6 @@
 # 👋 ¡Hola! Soy Jonathan Quito
 
+
 🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)  
 💼 Actualmente realizando prácticas en empresa  
 💻 Enfocado principalmente en desarrollo Backend, pero adaptable a Frontend y Full Stack  
