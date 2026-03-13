@@ -20,16 +20,7 @@ Actualmente estoy ampliando mis conocimientos en arquitectura de desarrollo en A
 
 ## 🛠️ Tecnologías y herramientas
 
-### 🔹 Lenguajes de programación
-- Java
-- Kotlin (principalmente en Android)
-- Python
-- JavaScript
-- HTML
-- CSS
-- SQL
-
-- ## 🛠️ Tecnologías principales
+- ### 🛠️ Tecnologías principales
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -88,6 +79,7 @@ Estoy abierto a oportunidades que me permitan seguir desarrollándome como profe
 ## 📫 Contacto
 
 📧 Email: jonattthan.20@gmail.com  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jonathan_Quito-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-alejandro-quito-374431338)
 
 ---
